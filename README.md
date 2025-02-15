@@ -1,4 +1,4 @@
-# mcbroken-daily
+# mcbroken-daily-historical
 
 Processing and aggregating large-scale [mcbroken](https://github.com/rashiq/mcbroken-archive) data at the daily level. Feel free to clone this and the mcbroken repo and get your own historical data!
 
