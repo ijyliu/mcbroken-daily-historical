@@ -1,6 +1,6 @@
 # mcbroken-daily
 
-Processing and aggregating large-scale [mcbroken](https://github.com/rashiq/mcbroken-archive) data at the daily level.
+Processing and aggregating large-scale [mcbroken](https://github.com/rashiq/mcbroken-archive) data at the daily level. Feel free to clone this and the mcbroken-archive repo and get your own historical data!
 
 This repo contains historical data on the number of machines and broken machines as of the most recent data before 12PM PST/20:00 UTC each day.
 
