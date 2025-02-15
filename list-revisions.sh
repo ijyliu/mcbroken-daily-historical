@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# Create relevant json files in a copy of the mcbroken-archive repository
+# Create relevant json files in a revisions directory
 # Store the mcbroken-archive repo in the same directory as this one
 
 EXPORT_TO=../mcbroken-daily/revisions
-GIT_PATH_TO_FILE=$1
+GIT_PATH_TO_FILE=mcbroken.json
 
 USAGE="Please cd to the root of your git project and specify the path to the file you wish to inspect (example: $0 some/path/to/file)"
 cd ../mcbroken-archive
